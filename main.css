@@ -1,0 +1,24 @@
+.container{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.search{
+	padding: 10px 50px;
+}
+#avatar{
+	height: 80px;
+	width: 80px;
+}
+#templete{
+	border: solid 1px #ccc;
+	box-shadow: 4px 4px 4px #ccc;
+	padding: 15px;
+	margin: 10px;
+}
+
+#templete img{
+	height: 410px;
+	width: 40px
+	border: solid 1px #ccc;
+	border-radius: 50%
+}
